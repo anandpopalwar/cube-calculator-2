@@ -14,7 +14,7 @@ body{
 }
 .container{
     width: 240px;
-    height: 400px;
+    height: 420px;
     margin: 40px auto;
     padding: 20px;
     /* border-radius: 15px; */
@@ -60,6 +60,10 @@ h4{
 }
 h6{
     margin:0px auto;   
+    text-align: center;
+}
+.input_feild{
+    margin:10px auto;   
     text-align: center;
 }
 button{
